@@ -4,8 +4,18 @@
 
 This is my personal site where I shall host a number of projects for all to see. I am currently looking for work in personalised medicine. You can find my CV and contact details here. 
 
-```markdown
+
+## Publications
+Over the course of my PhD I have written several first author publications 
+1. _Modelling the interplay between the CD4+/CD8+ T-cell ratio and the expression of MHC-I in tumours_ Here I define and study a model of the [T-cell response to tumours](https://www.biorxiv.org/content/10.1101/2020.07.03.185926v1)
+2. _Vaccination with partial transmission and social distancing on contact networks_ I have also studied how differences in the immunity of individuals to an infectious disease affect the [risk and size of epidemics](https://arxiv.org/abs/2110.06616)
+3. _A precision dosing application for patients treated with docetaxel and G-CSF_: this was a poster abstract submitted to the Proceedings of the American Association for Cancer Research Annual Meeting 2021, based on work completed during an internship with the oncoloygy consultancy Physiomics. 
+4. _Self-interactions in gene regulatory networks support a multiplicity of attractors_ (in preparation) 
+
+
+
 ## Interests 
+```markdown
  - Physics of complex systems 
  - Immunology 
  - Genetics 
@@ -13,44 +23,11 @@ This is my personal site where I shall host a number of projects for all to see.
  - Nonlinear dynamics 
  ```
  
+ 
+ ## Programming Skills 
 ```markdown
-## Programming Skills 
 - Python: NumPy, SciPy, NetworkX, Matplotlib
 - R, C++ (OOP), MatLab 
 - Stan
 ```
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/christianjohnhurry/personal_website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
