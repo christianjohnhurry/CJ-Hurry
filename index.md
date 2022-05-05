@@ -15,7 +15,6 @@ Check out my [publications here!](./Publications.md)
  - Nonlinear dynamics 
 
  
- 
  ## Programming Skills 
 
 - Python: NumPy, SciPy, NetworkX, Matplotlib
