@@ -2,14 +2,11 @@
 
 #### Theoretical physicist with expetise in the immune system, complexity and network science. 
 
-## Publications
-Check out my [publications here!](./Publications.md)
+#### [Publications]((./Publications.md))
 
-## About me
-A brief [bio...](./AboutMe.md)
+#### [About me](./AboutMe.md)
 
-## Experience + Skills
-What I've done, and what I can [do](./Experience.md)
+#### [ Experience + Skills](./Experience.md)
 
 
 
