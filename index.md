@@ -1,21 +1,24 @@
 # ~ Christian John Hurry
 
-## Theoretical physicist with an interest in biological modelling, network science, and personalised medicine. 
+## Theoretical physicist with expetise in the immune system, complexity and network science. 
 
 This is my personal site where I shall host a number of projects for all to see. I am currently looking for work in personalised medicine. You can find my CV and contact details here. 
 
+```markdown
 ## Interests 
  - Physics of complex systems 
  - Immunology 
  - Genetics 
  - Network science 
  - Nonlinear dynamics 
-
+ ```
+ 
+```markdown
 ## Programming Skills 
 - Python: NumPy, SciPy, NetworkX, Matplotlib
 - R, C++ (OOP), MatLab 
 - Stan
-
+```
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
