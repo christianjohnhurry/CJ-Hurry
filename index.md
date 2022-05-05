@@ -1,24 +1,17 @@
 # ~ Christian John Hurry
 
-## Theoretical physicist with expetise in the immune system, complexity and network science. 
+### Theoretical physicist with expetise in the immune system, complexity and network science. 
 
 This is my personal site where I shall host a number of projects for all to see. I am currently looking for work in personalised medicine. You can find my CV and contact details here. 
 
+## Publications
 Check out my [publications here!](./Publications.md)
 
-## Interests 
+## About me
+A brief [bio...](./AboutMe.md)
 
- - Physics of complex systems 
- - Immunology 
- - Genetics 
- - Network science 
- - Nonlinear dynamics 
+## Experience + Skills
+What I've done, and what I can [do](./Experience.md)
 
- 
- ## Programming Skills 
-
-- Python: NumPy, SciPy, NetworkX, Matplotlib
-- R, C++ (OOP), MatLab 
-- Stan
 
 
