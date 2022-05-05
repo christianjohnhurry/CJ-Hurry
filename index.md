@@ -1,6 +1,22 @@
-## Welcome to GitHub Pages
+# ~ Christian John Hurry
 
-You can use the [editor on GitHub](https://github.com/christianjohnhurry/personal_website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Theoretical physicist with an interest in biological modelling, network science, and personalised medicine. 
+
+This is my personal site where I shall host a number of projects for all to see. I am currently looking for work in personalised medicine. You can find my CV and contact details here. 
+
+## Interests 
+ - Physics of complex systems 
+ - Immunology 
+ - Genetics 
+ - Network science 
+ - Nonlinear dynamics 
+
+## Programming Skills 
+- Python: NumPy, SciPy, NetworkX, Matplotlib
+- R, C++ (OOP), MatLab 
+- Stan
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
