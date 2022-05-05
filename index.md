@@ -4,6 +4,8 @@
 
 This is my personal site where I shall host a number of projects for all to see. I am currently looking for work in personalised medicine. You can find my CV and contact details here. 
 
+Check out my [publications here!](./Publications.md)
+
 ## Interests 
 
  - Physics of complex systems 
