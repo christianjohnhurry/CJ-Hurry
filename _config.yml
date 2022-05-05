@@ -8,3 +8,4 @@ relative_links:
   collections: true
 include:
  - Publications.md
+ - index.md
