@@ -1,0 +1,3 @@
+- Python: NumPy, SciPy, NetworkX, Matplotlib
+- R, C++ (OOP), MatLab 
+- Stan
